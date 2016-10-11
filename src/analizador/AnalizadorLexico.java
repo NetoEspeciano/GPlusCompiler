@@ -2,7 +2,7 @@
 
 /* --------------------Seccion de codigo de usuario---------------------- */
 package analizador;
-
+/*comente*/
 import java.util.ArrayList;
 import java_cup.runtime.*;
 
